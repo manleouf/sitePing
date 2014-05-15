@@ -1,0 +1,41 @@
+
+ nav ul {
+	margin: auto;
+	padding: 0px;
+}
+
+nav li {
+	width: 20%;
+	height: 50px;
+	float: left;
+	color: #191919;
+	text-align: center;
+	padding-top: 10px;
+	overflow: hidden;
+}
+
+.subtext {
+	padding-top: 20px;
+	
+}
+
+/*Menu Color Classes*/
+.green {
+	background: #71b879 ;
+}
+
+.yellow {
+	background: #548c9c ;
+}
+
+.red {
+	background: #aad9a5 ;
+}
+
+.purple {
+	background: #5122B4 ;
+}
+
+.blue {
+	background: #0292C0 ;
+}
