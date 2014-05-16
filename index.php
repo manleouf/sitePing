@@ -38,7 +38,7 @@
 
         <aside id="progmensuelle" class="span4">
             <h4>Meilleure progression mensuelle</h4>
-            <p><img alt="trophée" src="img/coupe1.png" width="15%;">Girault Quentin +118</p>
+            <p><img alt="trophée" src="img/coupe1.png" width="15%;">Girault Quentin le ouf +118</p>
             <p><img alt="trophée" src="img/coupe2.png" width="15%;"> Pelletier Benjamin +28</p>
             <p><img alt="trophée" src="img/coupe3.png" width="15%;">Clero Yovenn  + 28</p>
         </aside>
