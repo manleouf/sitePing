@@ -55,7 +55,39 @@
                 <p><img width="100%" src="img/flyer.png" alt="flyer"/></p>
                 <button type="button" name="Download" onClick="window.location.href='img/flyerrecto.zip'">Enregistrer le flyer</button>
             </div>
+            
+            <h3>Finale par Classement régional le dimanche 25 mai </h3>
+            <div>
 
+                <p>3 participants pour cette finale par classement Quentin et Manu pour le tableau h8 et Teddy pour le tableau h12</p>
+                <p>Teddy après avoir fini 1er de poules, perd en 16ème</p>
+                <p>Quentin se place 5ème et donc va participer à la finale par classement nationale </p>
+                <p>Manu termine 8ème et donc est le 1er remplaçant car les 7 premiers étaient qualifiés directement pour le tour national</p>
+                <p>Bons résultats pour l'UMP penhoët, Bravo les gars, Merci à Karl d’avoir emmené et caoché nos joueurs.</p>
+            </div>
+
+            <h3>Près titre départemental 2  le dimanche 18 mai </h3>
+            <div>
+
+                <p>Pour ce tour préliminaire aux titres nous avons joué contre Guérande chez eux</p>
+
+                <p>Notre équipe composée de Manu, Gatean, Teddy en B et Éric, Tanguy Lois en A, a Gagné 11-09</p>
+
+                <p>Nous avons était mené un bon moment avant de renverser la tendance</p>
+
+                <p>Nous participerons donc aux titres départementaux 2, qui se dérouleront le 1er juin</p>
+            </div>
+
+            <h3>Finale par Classement départemental le dimanche 27 avril </h3>
+            <div>
+
+                <p>lors de cette journée nous avions plusieurs représentants, Mathieu, Benjamin, Karl, Quentin et Manu pour le tableau h8 (-900pts), et Teddy pour le tableau h12 (-1200pts).</p>
+
+                <p>Mathieu, Karl et Benjamin perdent malheureusement après les poules (32ème), Manu fini dans les places 9 à 12 et Quentin fini 1er de cette finale départementale </p>
+
+                <p>Teddy lui finit 3ème. Ainsi Manu, Quentin et Teddy vont participer à la finale par classement régional qui se déroulera le dimanche 25 mai</p>
+            </div>
+            
             <h3>Résultats de la dernière journée de championnat phase 2</h3>
             <div>
 
