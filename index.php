@@ -63,7 +63,7 @@
                 <p>Teddy après avoir fini 1er de poules, perd en 16ème</p>
                 <p>Quentin se place 5ème et donc va participer à la finale par classement nationale </p>
                 <p>Manu termine 8ème et donc est le 1er remplaçant car les 7 premiers étaient qualifiés directement pour le tour national</p>
-                <p>Bons résultats pour l'UMP penhoët, Bravo les gars, Merci à Karl d’avoir emmené et caoché nos joueurs.</p>
+                <p>Bons résultats pour l'UMP penhoët, Bravo les gars, Merci à Karl d’avoir emmené et coaché nos joueurs.</p>
             </div>
 
             <h3>Près titre départemental 2  le dimanche 18 mai </h3>
